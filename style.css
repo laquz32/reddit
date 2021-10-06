@@ -1,0 +1,115 @@
+body {
+  background-color: #f9f3df
+}
+.avatarimg {
+  border-radius: 100%;
+  width: 50px;
+  
+}
+.search{
+  
+  left: 373px;
+  bottom: 28px;
+  width: 288px;
+  position: relative;
+}
+.news{
+  
+  display: inline-block;
+  position: relative;
+  bottom: -54px;
+  right: 160px;
+  font-size: 20px;
+}
+.home{
+  font-size: 20px;
+  display: inline-block;
+  position: relative;
+  top: 57px;
+  left: 135px;
+  text-decoration: underline;
+}
+.popular{
+  font-size: 20px;
+  display: inline-block;
+  position: relative;
+  top: 71px;
+  left: 553px;
+}
+.gamingimg{
+  border-radius: 100%;
+  width: 45px;
+  top: 170px;
+  right: 353px;
+  position: relative;
+}
+.subrediit{
+  display: inline-block;
+  position: relative;
+  top: 144px;
+  right: 337px;
+}
+.user-name{
+  display: inline-block;
+  position: relative;
+  top: 166px;
+  right: 399px;
+}
+.starimg{
+  width: 30px;
+  top: 214px;
+  right: 530px;
+  position: relative;
+}
+.wholesomeimg{
+  width: 30px;
+  top: 214px;
+  right: 600px;
+  position: relative;
+  background-color: #F9F3DF;
+}
+.heart{
+  width: 30px;
+  top: 217px;
+  right: 560px;
+  position: relative;
+}
+.awardnum{
+  display: inline-block;
+  position: relative;
+  top: 209px;
+  right: 553px;
+}
+.mainimg{
+  width: 65%;
+  top: 243px;
+  position: relative;
+  right: -204px;
+}
+.title{
+  font-size: 24px;
+  display: inline-block;
+  position: relative;
+  top: -656px;
+  right: 458px;
+}
+.upvote{
+  width: 30px;
+  position: relative;
+  top: 279px; 
+  right: 987px;
+}
+.upvotenum{
+  position: relative;
+  display: inline-block;
+  top: 276px;
+  right: 978px;
+  font-size: 26px;
+}
+.downvote{
+  position: relative;
+  display: inline-block;
+  width: 30px;
+  top: 282px;
+  right: 970px;
+}
